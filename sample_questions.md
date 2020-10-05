@@ -23,7 +23,6 @@ Here are examples of the kinds of questions that might be asked. This is not int
 
 |  15  | 3  | 9  | 24  | 12  |
 |---|---|---|---|---|
-| 15 | 3 | 9 | 24 | 12 |
 
 Without writing any Java code, show each step in the sorting of this array using BubbleSort algorithm. 
 
