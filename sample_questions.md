@@ -21,6 +21,8 @@ Here are examples of the kinds of questions that might be asked. This is not int
 
 4. An unsorted list of 5 elements is given in the following array:
 
+|  15  | 3  | 9  | 24  | 12  |
+|---|---|---|---|---|
 | 15 | 3 | 9 | 24 | 12 |
 
 Without writing any Java code, show each step in the sorting of this array using BubbleSort algorithm. 
