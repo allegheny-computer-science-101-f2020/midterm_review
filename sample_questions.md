@@ -10,7 +10,7 @@ Here are examples of the kinds of questions that might be asked. This is not int
     - [ ] No
     - [ ] Yes, but only if the two classes have the same name
     - [ ] Yes, but only if the main program does not create objects of both kinds
-    - [ ] Yes, this is always allowed
+    - [ X ] Yes, this is always allowed
 
 3. Assume there is an array `numbers = new int[42]`. What are the highest and lowest legal array indexes for `numbers`? 
 
